@@ -37,5 +37,4 @@ Below is an example of the application output, showcasing evaluation metrics and
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ddos-detection-ml.git
-   cd ddos-detection-ml
+   https://github.com/vaungsophal/DDoS_Detection_ML.git
